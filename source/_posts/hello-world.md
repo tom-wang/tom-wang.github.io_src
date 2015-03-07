@@ -21,7 +21,7 @@ Pages](https://pages.github.com/)可能大部分人没有实操过。它是GitHu
 
 ### 创建项目
 项目的名字必须严格按照规范命名为`username.github.io`（将username换成你的GitHub账户名），这个名字同时也是专属你的子域名（取一个好名字多么重要！），如下
-![name-as-username](/img/hello-world/name-as-username.png)
+![name-as-username](/images/hello-world/name-as-username.png)
 
 ### Hello World
 添加一个静态页面，提交之后即可到浏览器输入你的专属域名进行验证
